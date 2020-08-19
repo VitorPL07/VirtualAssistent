@@ -9,9 +9,15 @@ Você pode instalar as dependências utilizando o "pip install 'nome da dependê
 
 --- Lista de dependências ---
 
-1 - Speech Recognition;
-2 - pyttsx3;
-3 - PyQt5;
-4 - youtube-search;
+1 - Speech Recognition
+
+2 - pyttsx3
+
+3 - PyQt5
+
+4 - youtube-search
+
 
 Obs: Caso dê algum problema para instalar as dependências, entre em contato comigo pelo meu e-mail: joaoovitor8000@gmail.com
+
+Depois de instalar todas as dependências, execute o "controle.py" no prompt de comando ou qualquer IDE de Python.
